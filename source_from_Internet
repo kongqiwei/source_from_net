@@ -1,3 +1,4 @@
+#####随机森林——2019-10-08
 #随机森林的源代码实现
 https://machinelearningmastery.com/implement-random-forest-scratch-python/
 #基于iris数据集
@@ -9,3 +10,4 @@ https://github.com/kongqiwei/RandomForest
 地址：https://www.jb51.net/article/131172.htm
 #随机森林的实现_通过，但是用的数据集不是iris，借鉴意义大
 地址：https://github.com/PANBOHE/study_MachineLearning_Python3.x/blob/master/random_Forest/train_random_forest.py
+#####随机森林——2019-10-08
